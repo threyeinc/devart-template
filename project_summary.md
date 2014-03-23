@@ -1,12 +1,12 @@
 # Project Title
-Interactive Moon Walk Experience
+Moon Walkers
 
 ## Authors
-- Anurag Rana, github account
-- Joshua Fernandes, github account (one per list element)
+- Anurag Rana, https://github.com/threyeinc
+- Joshua Fernandes
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+This project aims to let the user get the experience of floating around on the moon. Using the Kinect user data is tracked sent to Unity3D where Physical Interactivity is simulated.
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
