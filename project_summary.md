@@ -1,5 +1,5 @@
-# Project Title
-Moon Walkers
+# Moon Walk
+
 
 ## Authors
 - Anurag Rana, https://github.com/threyeinc
